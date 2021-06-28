@@ -4,7 +4,7 @@
 
 
 1. Soap UI
-    * Download SoapUi and import the collection, right click and run test case
+    * Download SoapUi and import the project file and execute the test suite.
 
 1. Postman
     * Download Postman and import the collection, Use runner to run the collection 

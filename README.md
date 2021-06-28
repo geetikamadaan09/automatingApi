@@ -1,4 +1,4 @@
-# automatingApi
+# Automating Apis
 
 ### Environment Setup
 
